@@ -65,7 +65,7 @@ const Destinations = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
           <div className="order-2 md:order-1 h-64 md:h-auto">
             <img 
-              src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80" 
+              src="https://images.unsplash.com/photo-1584811644165-33078caa3929?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80" 
               alt="Neem Karoli Baba Ashram" 
               className="w-full h-full object-cover rounded-lg shadow-md"
             />

@@ -43,7 +43,7 @@ const FeaturedDestinations = () => {
       location: "Uttarakhand, India"
     },
     {
-      image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80",
+      image: "https://images.unsplash.com/photo-1584811644165-33078caa3929?ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80",
       name: "Neem Karoli Baba Ashram",
       description: "A spiritual center dedicated to the saint Neem Karoli Baba at Kainchi Dham, offering peace and divine connection to devotees.",
       location: "Kainchi, Uttarakhand"
